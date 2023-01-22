@@ -23,12 +23,17 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
 
+
+
+
+
 ## Github Stats
 
   <!-- GitHub Readme Streak Stats -->
-  <p>
-    <img width="564" title="My streak stats" alt="ouadjih's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ouadjih hide_border=true"/>
-  </p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouadjih&show_icons=true&locale=en" alt="ouadjih" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouadjih&" alt="ouadjih" /></p>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ouadjih&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
