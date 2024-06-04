@@ -1,6 +1,6 @@
 
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Mohamed Ouadjih Boudraa </h1> 
-  <h2>Learn, Grow and Adapt</h2>
+  <h2>Each line of code is a testament to my growth and a fragment of my story.</h2>
 </div>
 
 
